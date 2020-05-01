@@ -1,0 +1,51 @@
+
+*{
+	margin right: 0px;
+	padding: 0px;
+}
+.viewport{
+	zoom: 1;
+	width: extend to zoom;
+}
+
+
+body{
+	background-image: url(3.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	scroll-behavior: smooth;
+}
+nav{
+	margin-top: 3x;
+	font-size: 30px;
+	font-family: sans-serif;
+	color: pink;
+	text-transform: uppercase;
+	font-weight: bold;
+	float: left;
+	background: white;
+	opacity: .8;
+	
+}
+li{
+	float: left;
+	list-style: none;
+	padding-right: 25px;
+	margin-right: 5px;
+	text-align: center;
+
+}
+.Welcome{
+	position: absolute;
+	left: 30%;
+	top: 20%;
+	color: orange;
+	font-size: 40px;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-decoration:double;
+	font-family: sans-serif;
+	
+}
+
+
