@@ -21,15 +21,15 @@ nav{
 	color: black;
 	text-transform: uppercase;
 	background: white;
-	
+
 }
 li{
 	float: left;
 	list-style: none;
-	padding-right: 35px;
+	padding-right: 40px;
 	margin-right: 5px;
-	bor
 	text-align: center;
+	
 
 }
 .Welcome{
