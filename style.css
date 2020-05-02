@@ -16,22 +16,19 @@ body{
 	scroll-behavior: smooth;
 }
 nav{
-	margin-top: 3x;
-	font-size: 30px;
+	font-size: 35px;
 	font-family: sans-serif;
-	color: pink;
+	color: black;
 	text-transform: uppercase;
-	font-weight: bold;
-	float: left;
 	background: white;
-	opacity: .8;
 	
 }
 li{
 	float: left;
 	list-style: none;
-	padding-right: 25px;
+	padding-right: 35px;
 	margin-right: 5px;
+	bor
 	text-align: center;
 
 }
@@ -46,6 +43,15 @@ li{
 	text-decoration:double;
 	font-family: sans-serif;
 	
+}
+li:hover{
+	background-color: green;
+	transition-duration: 20ms;
+	align-items: center;
+	animation: 10ms;
+}
+li :hover li{
+	display: inline;
 }
 
 
