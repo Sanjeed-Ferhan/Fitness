@@ -4,12 +4,9 @@
 	padding: 0px;
 }
 .viewport{
-	zoom: 1.0;
+	zoom: 1;
 	width: extend to zoom;
 }
-.-ms-viewpoert{
-	width:extend to zoom ;
-	zoom:1.0;}
 
 
 body{
